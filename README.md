@@ -33,3 +33,14 @@ Proficient in using a wide range of penetration testing and security assessment 
 <div>
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81522215" alt="eJPTv2" width="130" height="130">    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/95855228" alt="eWPTv2" width="130" height="130">
 </div>
+
+## Hall of Fame & Bounty
+
+- Reward from dpgmedia (dpgmedia.be)
+- Hall of Fame by Cybersek (Cybersek.in)
+- Hall of Fame by Inflectra (inflectra.com) 
+- Hall of Fame by Transloadit (transloadit.com) 
+- Hall of Fame by some1 (some1.in) - an open source project
+- Acknowledgement by NCIIPC - A unit of National Technical Research Organization (NTRO)
+
+
