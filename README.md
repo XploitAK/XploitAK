@@ -1,4 +1,4 @@
-# Hii, I'm Alok
+# Hi👋, I'm Alok
 
 <a href="https://www.linkedin.com/in/alokumarmeher/"><img src="https://img.icons8.com/?size=30&id=xuvGCOXi8Wyg&format=png&color=000000" /></a>
 
