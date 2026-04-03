@@ -4,7 +4,7 @@
 
 🔹 Cyber Security Practitioner | Penetration Tester | Ethical Hacker | Offensive Security🔹
 
-Experienced Associate Security Consultant with 3 years in penetration testing and vulnerability assessments. Passionate about discovering security flaws and strengthening cyber defenses. Skilled in application & network security, OSINT, with a focus on enhancing security posture.
+Experienced Pentester with over 4 years in penetration testing and vulnerability assessments. Passionate about discovering security flaws and strengthening cyber defenses. Skilled in application & network security, OSINT, with a focus on enhancing security posture.
 
 🚀 Always learning, always securing!
 
