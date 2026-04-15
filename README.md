@@ -13,7 +13,7 @@ Experienced Pentester with over 4 years in penetration testing and vulnerability
 - Vulnerability Assessment & Penetration Testing
 - Web Application VAPT
 - API & Web Service VAPT
-- Mobile Application VAPT (Android)
+- Mobile Application VAPT (Android/iOS)
 - Host & Network VAPT
 - Manual Exploitation
 - Firewall Review
